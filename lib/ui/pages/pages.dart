@@ -1,0 +1,9 @@
+export 'package:ride_usuario/ui/pages/codePhone/code_verification_page.dart';
+export 'package:ride_usuario/ui/pages/gps_access/gps_access_page.dart';
+export 'package:ride_usuario/ui/pages/home/home_page.dart';
+export 'package:ride_usuario/ui/pages/login/login_page.dart';
+export 'package:ride_usuario/ui/pages/phone_verification.dart/phone_verification_page.dart';
+export 'package:ride_usuario/ui/pages/profilePage/user_profile_page.dart';
+export 'package:ride_usuario/ui/pages/register/register_page.dart';
+export 'package:ride_usuario/ui/pages/startPage/start_page.dart';
+export 'package:ride_usuario/ui/pages/loading/loading_page.dart';
